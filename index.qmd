@@ -1,11 +1,21 @@
 ---
-title: "Megstefanowski.github.io"
+title: "Meg Stefanowski"
+image: "media/headshot.jpg""
+toc: false 
+about: 
+template: marquee 
+image-shape: rectangle
+links: 
+- text: LinkedIn
+href: https:// www.linkedin.com/in/meganstefanowski/
+- text: GitHub
+href: https://github.com/megstefanowski
+- text: Email
+href: mailto: stefanowski@ucsb.edu
 ---
 
-This is a Quarto website.
+# Meg Stefanowski 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Welcome!
 
-```{r}
-1 + 1
-```
+Welcome to my website! My name is Meg, I am a third year Environmental Studies and Technology Management student at UCSB.

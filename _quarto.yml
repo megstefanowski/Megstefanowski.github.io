@@ -4,18 +4,20 @@ project:
   
 
 website:
-  title: "Megstefanowski.github.io"
+  title: "Megan Stefanowski"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - aboutme.qmd 
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    page-layout: full 
 
 editor: visual
 
