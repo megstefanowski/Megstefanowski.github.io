@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Megan Stefanowski - About Me!</title>
+<title>Megan Stefanowski</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -33,6 +33,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
@@ -94,7 +95,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./aboutme.html" aria-current="page"> 
+    <a class="nav-link" href="./aboutme.html"> 
 <span class="menu-text">About Me!</span></a>
   </li>  
   <li class="nav-item">
@@ -119,36 +120,15 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<div class="quarto-about-marquee content">
-  <div class="about-image-container">
-    <img src="media/me.jpg" class="about-image
-  round " style="height: 100%; width: 100%;">
-  </div>
-  <div class="about-contents">
-    <header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">About Me!</h1>
-</div>
-<div class="quarto-title-meta">
-  </div>
-</header> <main class="content" id="quarto-document-content">
-<section id="connecticut" class="level1">
-<h1>Connecticut</h1>
-<p>I grew up in Madison, Connecticut with my 2 sisters, parents, and my dog Archie. I love summers on the Connecticut shoreline but hate the cold winters, which is why I was drawn to sunny Santa Barbara! At home, I love to walk by dog along the beach and on hiking trails, get together with childhood friends, and watch sports with my family (Go Giants!)</p>
-<p><img src="media/fam.jpg" class="img-fluid"></p>
-</section>
-<section id="isla-vista-ca" class="level1">
-<h1>Isla Vista, CA</h1>
-<p><img src="media/99.jpg" class="img-fluid"> At UCSB, I live in a house with 18 girls on Del Playa. Despite being in a permanent state of chaos, I love living with so many of my closest friends and am eternally grateful to be able to look out my window every day and see the beautiful Pacific Ocean right in Isla Vista.</p>
-<p>I love spending time with my housemates, and you’ll most often catch us surfing, inviting friends over for sunsets and cornhole on our deck, and gathering together in matching dino pj’s every Monday night to try and squeeze us all on the couch to watch “The Bachelor.”</p>
-<p><img src="media/dino.jpg" class="img-fluid"></p>
+<main class="content" id="quarto-document-content">
 
 
-</section>
-</main> 
-  </div>
-</div>
- <!-- /main -->
+
+
+
+
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -313,6 +293,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   } else {
     toggleColorMode(false);
   }
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     
