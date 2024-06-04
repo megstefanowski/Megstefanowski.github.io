@@ -1,5 +1,5 @@
 ---
-title: "Meg Stefanowski"
+title: "Megan Stefanowski"
 image: media/COMPOSITR.jpg
 image shape: rectangle
 image size: 20cm
@@ -16,7 +16,6 @@ about:
 ---
 
 
-# Meg Stefanowski 
 
 ## Welcome!
 
