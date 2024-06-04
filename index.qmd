@@ -1,5 +1,5 @@
 ---
-title: "Megan Stefanowski"
+title: "Meg Stefanowski"
 image: media/COMPOSITR.jpg
 image shape: rectangle
 image size: 20cm
@@ -20,4 +20,4 @@ about:
 
 ## Welcome!
 
-Welcome to my website! My name is Meg, I am a third year Environmental Studies and Technology Management student at UCSB.
+Welcome to my website! My name is Meg, I am a third year Environmental Studies and Technology Management student at UCSB. Enjoy my site and make sure to check out the links to my Linkedin and Github below!
