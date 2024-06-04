@@ -5,10 +5,9 @@ about:
   template: marquee
   image: media/me.jpg
   image-shape: round
-  image-size: 15cm
 ---
 
-# Home
+# Connecticut
 I grew up in Madison, Connecticut with my 2 sisters, parents, and my dog Archie. I love summers on the Connecticut shoreline but hate the cold winters, which is why I was drawn to sunny Santa Barbara! At home, I love to walk by dog along the beach and on hiking trails, get together with childhood friends, and watch sports with my family (Go Giants!)
 
 ![](media/fam.jpg)

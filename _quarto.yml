@@ -12,6 +12,7 @@ website:
        text: Home
      - aboutme.qmd
      - pilates.qmd
+     - portfolio.qmd
 
 format:
   html:
