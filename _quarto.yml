@@ -7,11 +7,10 @@ website:
   title: "Megan Stefanowski"
   navbar:
   background: primary
-    left:
+  left:
       - href: index.qmd
         text: Home
       - about.qmd
-      - aboutme.qmd 
       - pilates.qmd
 
 format:
