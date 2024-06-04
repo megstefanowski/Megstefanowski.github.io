@@ -1,6 +1,6 @@
 --- 
 title: "Pilates"
-image: media/x.png
+image: media/x.jpg
 toc: false
 about: 
   template: marquee
