@@ -2,9 +2,10 @@
 title: "About Me!"
 toc: false
 about: 
-image: me.jpg
-image-shape: round
-image-width: 15cm
+  template: marquee
+  image: media/me.jpg
+  image-shape: round
+  image-size: 15cm
 ---
 
 # Home

@@ -1,7 +1,6 @@
 --- 
 title: "Pilates"
 toc: false
-about: 
   template: marquee
 
 ---
