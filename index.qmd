@@ -1,18 +1,20 @@
 ---
-title: "Meg Stefanowski"
-image: "media/headshot.jpg""
-toc: false 
+title: "Megan Stefanowski"
+image: media/COMPOSITR.jpg
+image shape: rectangle
+image size: 20cm
+toc: false
 about: 
-template: marquee 
-image-shape: rectangle
-links: 
-- text: LinkedIn
-href: https:// www.linkedin.com/in/meganstefanowski/
-- text: GitHub
-href: https://github.com/megstefanowski
-- text: Email
-href: mailto: stefanowski@ucsb.edu
+  template: marquee
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/meganstefanowski/
+    - text: GitHub
+      href: https://github.com/mstefanowski
+    - text: Email
+      href: mailto:stefanowski@ucsb.edu
 ---
+
 
 # Meg Stefanowski 
 
