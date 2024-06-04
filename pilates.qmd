@@ -1,8 +1,8 @@
 ---
 title: "Pilates"
-image: 
-image shape: 
+image: media/x1
+image shape: rectangle
 image size: 
 toc: false
-
+--- 
 
