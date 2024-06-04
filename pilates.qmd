@@ -1,16 +1,17 @@
 --- 
 title: "Pilates"
-image: media/x.jpg
 toc: false
 about: 
   template: marquee
-  image-shape: circle
-  image-width: 20em
 
 ---
+
+
+
+![](media/x.jpg)
+
         
-# Pilates
-This year, I trained and started teaching as an instructor at Studio X Reformer Pilates. Growing up as a competitive gymnast and coaching gymnastics in high school, I fell in love with pilates once I started at UCSB, and picked it up easily due to the mind-body connection I spent to many years developing as a gymnast. I missed the instructional aspect of coaching and I love to help others reached their goals, so I decided to put these passions together and teach the pilates classes I was already atending daily anyways. 
+This year, I trained and began teaching as an instructor at Studio X Reformer Pilates. Growing up as a competitive gymnast and coaching gymnastics in high school, I fell in love with pilates once I started at UCSB, and picked it up easily due to the mind-body connection I spent to many years developing as a gymnast. I missed the instructional aspect of coaching and I love to help others reached their goals, so I decided to put these passions together and teach the pilates classes I was already atending daily anyways. 
 
 ![](media/x1.jpg)
 

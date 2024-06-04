@@ -1,0 +1,22 @@
+---
+title: "About Me!"
+toc: false
+about: 
+image: me.jpg
+image-shape: round
+image-width: 15cm
+---
+
+# Home
+I grew up in Madison, Connecticut with my 2 sisters, parents, and my dog Archie. I love summers on the Connecticut shoreline but hate the cold winters, which is why I was drawn to sunny Santa Barbara! At home, I love to walk by dog along the beach and on hiking trails, get together with childhood friends, and watch sports with my family (Go Giants!)
+
+![](media/fam.jpg)
+
+
+# Isla Vista, CA 
+![](media/99.jpg)
+At UCSB, I live in a house with 18 girls on Del Playa. Despite being in a permanent state of chaos, I love living with so many of my closest friends and am eternally grateful to be able to look out my window every day and see the beautiful Pacific Ocean right in Isla Vista. 
+
+I love spending time with my housemates, and you'll most often catch us surfing, inviting friends over for sunsets and cornhole on our deck, and gathering together in matching dino pj's every Monday night to try and squeeze us all on the couch to watch "The Bachelor."
+
+![](media/dino.jpg)
