@@ -6,14 +6,15 @@ project:
 website:
   title: "Megan Stefanowski"
   navbar:
-   search: false
    background: primary
+   logo: media/heart.png
    left:
      - href: index.qmd
        text: Home
      - aboutme.qmd
      - pilates.qmd
      - portfolio.qmd
+  search: false
 
 format:
   html:
