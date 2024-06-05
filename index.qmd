@@ -2,7 +2,7 @@
 title: "Megan Stefanowski"
 toc: false
 about: 
-  template: marquee
+  template: jolla
   image: media/composite.jpeg
   image-shape: rounded
   links:

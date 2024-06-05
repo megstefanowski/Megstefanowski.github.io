@@ -6,8 +6,6 @@ about:
   image: media/x.jpg
   image-shape: rounded
 ---
-![](media/x.jpg
-
         
 This year, I began teaching as an instructor at Studio X Reformer Pilates. Having grown up as a competitive gymnast and later coaching gymnastics in high school, I fell in love with pilates when I came to UCSB. The mind-body connection I spent years developing as a gymnast made the transition to pilates seamless. I missed the instructional role of being a coach, enjoy helping others reach their goals, and was taking classes daily anyways. Combining these passions, I decided to train and eventually teach pilates classes. 
 
