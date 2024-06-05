@@ -1,11 +1,10 @@
 ---
 title: "Megan Stefanowski"
-image: media/COMPOSITR.jpg
-image shape: rectangle
-image size: 15cm
 toc: false
 about: 
   template: jolla
+  image: media/COMPOSITR.jpg
+  image-shape: round
   links:
     - text: LinkedIn
       href: https://www.linkedin.com/in/meganstefanowski/
