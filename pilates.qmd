@@ -1,10 +1,10 @@
 --- 
 title: "Pilates"
-toc: false
-about: 
-  template: jolla
-  image: media/x.jpg
-  image-shape: rounded
+image: media/x.jpg
+about:
+  template: trestles
+  image-width: 10em
+  image-shape: round
 ---
 
         
