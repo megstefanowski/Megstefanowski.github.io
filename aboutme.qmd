@@ -2,7 +2,7 @@
 title: "About Me!"
 toc: false
 about: 
-  template: marquee
+  template: jolla
   image: media/me.jpg
   image-shape: round
 ---
