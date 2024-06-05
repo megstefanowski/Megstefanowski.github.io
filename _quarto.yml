@@ -6,6 +6,7 @@ project:
 website:
   title: "Megan Stefanowski"
   navbar:
+   search: false
    background: primary
    left:
      - href: index.qmd
@@ -13,7 +14,6 @@ website:
      - aboutme.qmd
      - pilates.qmd
      - portfolio.qmd
-   search: false
    right: 
      - "Toggle to dark mode"
 
