@@ -1,10 +1,10 @@
 --- 
 title: "Pilates"
 toc: false
-image: media/x.jpg
 about: 
-  template: solana
-  
+ template: jolla
+  image: media/me.jpg
+  image-shape: round  
 
 ---
 
