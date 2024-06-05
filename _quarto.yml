@@ -19,13 +19,12 @@ website:
 
 format:
   html:
-      include:
-      in_header: styles.css
-    in-header: 
     theme: 
       light: journal
       dark: superhero
     css: styles.css
-    
+    include:
+      in_header: styles.css
+  
 editor: visual
 
