@@ -7,7 +7,7 @@ about:
   image-shape: rounded
   links:
     - text: LinkedIn
-      href: https://www.linkedin.com/in/megan-stefanowski/
+      href: https://www.linkedin.com/in/megan-stefanowski 
     - text: GitHub
       href: https://github.com/mstefanowski
     - text: Email
