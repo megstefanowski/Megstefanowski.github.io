@@ -2,8 +2,9 @@
 title: "Pilates"
 toc: false
 about: 
- template: jolla
-   image: media/me.jpg
+  template: jolla
+  image: media/x.jpg
+  image-shape: rounded
 ---
 
         
