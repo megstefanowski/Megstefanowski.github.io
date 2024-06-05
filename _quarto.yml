@@ -19,12 +19,13 @@ website:
 
 format:
   html:
-    theme: 
-      light: journal
-      dark: superhero
-    css: styles.css
-    include:
-      in_header: styles.css
+   theme: 
+      - cosmo
+      - styles.scss
+   mainfont: Roboto Slab
+   toc: false
+   page-layout: full
+      
   
 editor: visual
 
