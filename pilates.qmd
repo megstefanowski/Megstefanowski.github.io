@@ -3,9 +3,7 @@ title: "Pilates"
 toc: false
 about: 
  template: jolla
-  image: media/me.jpg
-  image-shape: round  
-
+   image: media/me.jpg
 ---
 
         
