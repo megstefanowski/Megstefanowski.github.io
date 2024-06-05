@@ -3,9 +3,8 @@ title: "Pilates"
 image: media/x.jpg
 about:
   template: trestles
-  image-width: 10em
-  image-shape: round
 ---
+![](media/x.jpg
 
         
 This year, I began teaching as an instructor at Studio X Reformer Pilates. Having grown up as a competitive gymnast and later coaching gymnastics in high school, I fell in love with pilates when I came to UCSB. The mind-body connection I spent years developing as a gymnast made the transition to pilates seamless. I missed the instructional role of being a coach, enjoy helping others reach their goals, and was taking classes daily anyways. Combining these passions, I decided to train and eventually teach pilates classes. 
@@ -22,6 +21,4 @@ Since beginning my instructor training, I have noticed significant growth in my 
 
 ![](media/x2.jpg)
 
-
-[Link to StudioX website]
-(https://www.studioxreformerpilates.com/)
+[Link to StudioX website](https://www.studioxreformerpilates.com)
