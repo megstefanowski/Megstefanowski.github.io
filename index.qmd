@@ -1,7 +1,7 @@
 ---
 title: "Megan Stefanowski"
 image: media/COMPOSITR.jpg
-image shape: rectangle
+image shape: round
 image size: 20cm
 toc: false
 about: 
