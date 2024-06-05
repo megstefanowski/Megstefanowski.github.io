@@ -14,8 +14,6 @@ website:
      - aboutme.qmd
      - pilates.qmd
      - portfolio.qmd
-   right: 
-     - "Toggle to dark mode"
 
 format:
   html:

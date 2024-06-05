@@ -1,24 +1,21 @@
 /*-- scss:defaults --*/
 
-// Fonts
+// Set font to roboto slab
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
 
 
-// Colors
-$pink: #F8E1F4;
-$dark-pink: #FF7FAE;
-$white: #FFFFFF;
-$dark-green: #858E79;
-$light-green: #D1D9CE;
-$cream: #FDFBF7;
-$gray: #64605f;
+// Define colors
+$pink: #FBADB6;
+$dark-pink: #DB0059;
+$white: #FFFFFC;
 $purple: #9158A2;
-$orange: #ad7237;
 
-// Base document colors
+
+// Assign colors
 $navbar-bg: $pink; // navbar
-$navbar-hl: $purple; // highlight color when hovering over navbar links
+$navbar-fg: $dark-pink; //navbar text
+$navbar-hl: $dark-pink; // highlight color when hovering over navbar links
 $navbar-color: $dark-pink; // nav bar text color
-$body-color: $pink; // page text 
+$body-color: $dark-pink; // page text 
 $link-color: $purple; // hyperlinks 
 
