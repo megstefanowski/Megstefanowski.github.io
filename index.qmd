@@ -2,9 +2,9 @@
 title: "Megan Stefanowski"
 toc: false
 about: 
-  template: jolla
+  template: marquee
   image: media/composite.jpeg
-  image-shape: rounded
+  image-shape: rectangle
   links:
     - text: LinkedIn
       href: https://www.linkedin.com/in/megan-stefanowski 
