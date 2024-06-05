@@ -5,7 +5,7 @@ image shape: rectangle
 image size: 20cm
 toc: false
 about: 
-  template: marquee
+  template: jolla
   links:
     - text: LinkedIn
       href: https://www.linkedin.com/in/meganstefanowski/
