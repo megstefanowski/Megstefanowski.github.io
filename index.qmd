@@ -1,8 +1,8 @@
 ---
 title: "Megan Stefanowski"
 image: media/COMPOSITR.jpg
-image shape: round
-image size: 100cm
+image shape: rectangle
+image size: 15cm
 toc: false
 about: 
   template: jolla
