@@ -1,9 +1,0 @@
-/* css styles */
-
-$primary-color: #3498db;
-$font-stack: Helvetica, sans-serif;
-
-body {
-  font-family: $font-stack;
-  color: $primary-color;
-}
