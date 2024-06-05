@@ -1,6 +1,9 @@
 /* css styles */
----
-.bg-primary {
-  background-color: #5c2d91 !important;
+
+$primary-color: #3498db;
+$font-stack: Helvetica, sans-serif;
+
+body {
+  font-family: $font-stack;
+  color: $primary-color;
 }
---- 
