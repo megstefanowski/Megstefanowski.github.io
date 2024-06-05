@@ -3,7 +3,7 @@ title: "Megan Stefanowski"
 toc: false
 about: 
   template: jolla
-  image: media/COMPOSITR.jpg
+  image: media/composite.jpg
   image-shape: rounded
   links:
     - text: LinkedIn
