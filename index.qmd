@@ -4,8 +4,8 @@ toc: false
 about: 
   template: marquee
   image: media/composite.jpeg
-  image-shape: rectangle
-  image-width: 8cm
+  image-shape: rounded
+  image-width: 9
   links:
     - text: LinkedIn
       href: https://www.linkedin.com/in/megan-stefanowski 
