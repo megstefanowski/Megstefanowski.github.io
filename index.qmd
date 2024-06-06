@@ -5,6 +5,7 @@ about:
   template: marquee
   image: media/composite.jpeg
   image-shape: rectangle
+  image-width: 20cm
   links:
     - text: LinkedIn
       href: https://www.linkedin.com/in/megan-stefanowski 
